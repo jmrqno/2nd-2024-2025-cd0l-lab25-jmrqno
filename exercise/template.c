@@ -2,6 +2,7 @@
  * CMSC 125 Lab 04
  * Simple Calculator Program Template
  * Complete the implementation and customize as needed.
+ * Demo for sir jach
  */
 
  #include <stdio.h>
